@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I'm Yuri
 
 ## I'm a student and I want to become a Developer!
