@@ -8,7 +8,7 @@
 - 😄 I like to look at the results of my work
 - 😄 I want my company to be proud of my results
 
-###  🛠  Технологии
+###  🛠  Technologies
 
 <div>  
   <a href="https://www.java.com/" target="_blank">
@@ -31,5 +31,5 @@
   </a>
 </div>
 
-###  💻  Статистика
+###  💻  GitHub statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriProduction&layout=compact)](https://github.com/YuriProduction/github-readme-stats)
