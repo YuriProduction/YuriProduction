@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yuri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ## I'm a student and I want to become a Developer!
-- 🔭 Now I am keen on Java development
+- 🔭 Now I am keen on Back-End development
 - 🌱 My best skill is diligence and perseverance
 - 👯 I want to have a good fun team! 
 - 😄 I love to work and learn new things
