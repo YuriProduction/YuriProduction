@@ -33,3 +33,6 @@
 
 ###  💻  GitHub statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriProduction&layout=compact)](https://github.com/YuriProduction/github-readme-stats)
+
+### 💻  LeetCode statistics
+[![YuriProduction's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=YuriProduction&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
