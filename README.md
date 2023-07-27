@@ -8,7 +8,7 @@
 - 😄 I like to look at the results of my work
 - 😄 I want my company to be proud of my results
 
-###  🛠  Technologies
+##  🛠  Technologies
 
 <div>  
   <a href="https://www.java.com/" target="_blank">
@@ -31,8 +31,8 @@
   </a>
 </div>
 
-###  💻  GitHub statistics
+##  💻  GitHub statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriProduction&layout=compact)](https://github.com/YuriProduction/github-readme-stats)
 
-### 💻  LeetCode statistics
+## 💻  LeetCode statistics
 [![YuriProduction's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=YuriProduction&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
