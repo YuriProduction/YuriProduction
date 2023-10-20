@@ -12,13 +12,13 @@
 
 <div>  
   <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 10px" src="https://i.pinimg.com/originals/1d/7d/f7/1d7df727726b366323c7aea8cb1ee390.png" alt="Spring" height="50" />
+    <img style="margin: 10px" src="https://i.pinimg.com/originals/1d/7d/f7/1d7df727726b366323c7aea8cb1ee390.png" alt="Spring" height="50" title="SpringFramework" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python" />
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
     <img src="https://skillicons.dev/icons?i=js" />
@@ -28,6 +28,12 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
     <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="Kotlin">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="Hibernate">
+    <img src="https://skillicons.dev/icons?i=hibernate" />
   </a>
 </div>
 
